@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    max-width: 200px;
+    padding: 8px;
+    margin: 8px auto;
+    background: #eee;
+    border: 2px dotted #ddd;
+}
+.f1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:12px;
+    
+}
